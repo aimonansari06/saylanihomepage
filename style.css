@@ -47,17 +47,10 @@ li{
    
     list-style-type: none;
     display: inline;
+    justify-content: center;
 }
 
-.img1{
-    height: 50;
-    width: 20;
-    display: inline-block;
-    padding-left: 0px;
-    /*justify-content: flex-start;
-    */
-    
-}
+
 .button1 {
     background-color: white; 
     border: none;
@@ -69,8 +62,11 @@ li{
     display: inline-block;
     font-size: 9px;
 }
+.first{
+    justify-content: center;
+}
 .two{
-      padding-left: 0px;
+      padding-right: 0px;
       padding-bottom: 10px;
  }
 
